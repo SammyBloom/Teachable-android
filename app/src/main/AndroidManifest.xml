@@ -9,9 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".IndividualLogin"></activity>
         <activity android:name=".SchoolLoginMain" />
         <activity android:name=".SchoolRegMain" />
-        <activity android:name=".RegistrationCheckpoint"></activity>
+        <activity android:name=".RegistrationCheckpoint" />
     </application>
 
 </manifest>

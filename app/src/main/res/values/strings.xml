@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Teachable</string>
-    <string name="Teachable"></string>
     <string name="forgot_password">Forgot Password</string>
 
     <string name="school_login">School Login</string>
