@@ -8,6 +8,6 @@ public class Individual_RegistrationOption extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_individual__registration_option);
+        setContentView(R.layout.activity_individual_registration_option);
     }
 }

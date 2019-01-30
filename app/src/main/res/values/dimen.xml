@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="root_padding">16dp</dimen>
-    <dimen name="box_space">12dp</dimen>
+    <dimen name="root_padding">18dp</dimen>
+    <dimen name="box_space">20dp</dimen>
+    <dimen name="big_space">30dp</dimen>
+    <dimen name="large_space">40dp</dimen>
+    <dimen name="drawable_pad">16dp</dimen>
+    <dimen name="box_pad">8dp</dimen>
+    <dimen name="normal_text">18dp</dimen>
 </resources>

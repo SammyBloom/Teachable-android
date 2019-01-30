@@ -16,6 +16,18 @@
     <string name="individual_user">Individual User</string>
     <string name="proceed">Proceed</string>
     <string name="registration_checkpoint">Registration Checkpoint</string>
+    <string name="individual_login">Individual Login</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="individual_reg">Individual Registration</string>
+    <string name="first">First Name</string>
+    <string name="last">Last Name</string>
+    <string name="user">Username</string>
+    <string name="phone">Mobile Number</string>
+    <string name="agreement">By registering on Teachable, you agree with our</string>
+    <string name="terms"><u>Terms Of Service</u>></string>
+    <string name="reg_email">REGISTER WITH EMAIL</string>
+    <string name="option_text">or register with:</string>
 
 
 </resources>
